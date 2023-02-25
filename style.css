@@ -13,4 +13,6 @@ h1, h2, h3 {
     font-weight: normal;
 }
 
-
+.remark-slide-content {
+    background-image: url("pix/binary_background.png");
+}
