@@ -35,10 +35,7 @@ Darren Kessner, PhD
       in Los Angeles
     - Software developer at [Ellison Institute](http://eitm.org)
 
-
-
 ---
-
 
 # Education History / Philosophy
 
@@ -46,32 +43,52 @@ Papert & Mindstorms
 
 ---
 
-# Goals
+# Software Playgrounds
 
-Goals of software playgrounds:
+<br/>
+
+What is a software playground?
 
 - safe sandbox for exploration
-- leverage students prior knowledge for more meaningful first
-coding experiences
 
-Goal of this talk:
+- a familiar place where a student's prior knowledge is useful
 
-- to give an overview of some options for educational / creative coding
-- to help you generate some ideas for bringing coding experiences into
-  the classroom
+<br/>
+<br/>
+
+Goal of this presentation:
+
+- to give an overview of the landscape of educational / creative coding  
+
+- to help you generate some ideas for your own software playground
 
 ---
 
 # Python
 
-Great for math lessons:
-- Pre-algebra/algebra: 
-    - order of operations
-    - variables and formulas
-    - functions
-- Precalculus: 
-    - sequences and series
-    - parametric equations (turtle graphics)
+<br/>
+
+Python is a great for math lessons at all levels!
+
+<br/>
+
+Pre-algebra/algebra
+
+- order of operations
+- variables and formulas
+- functions
+
+<br/>
+
+Precalculus
+
+- sequences and series
+- parametric equations (turtle graphics)
+
+<br/>
+
+[Hello Jupyterlite!](https://dkessner.github.io/hello_jupyterlite)
+
 
 ---
 
