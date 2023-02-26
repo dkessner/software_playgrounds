@@ -92,59 +92,92 @@ Precalculus
 
 ---
 
-# Python
+# Turtle + parametric equations
 
-images from turtle graphics
+.center[
+![](pix/audrey.png) 
+![](pix/bella.png)
+![](pix/eloise.png)
+![](pix/rachel.png)
+]
 
 ---
 
 # Processing
 
-Processing is one big playground (quick demo?)
+[Processing](https://processing.org) is one big playground,
+suitable for students as early as middle school.
 
-Middle school: drawing & animating with code:
+Drawing & animating with code:
+
 - coordinate system
 - RGB colors
+- variables
+- conditions
+- functions
+- loops
 
+Intermediate:
+
+- classes & objects
+- array, ArrayList
+- user interaction
+- collision detection
 
 ---
 
 # Processing advanced projects
 
+<br/>
+
 - 3D graphics
     - textures
     - 3D model import
-- video
-- image filtering
-- audio input and visualization
-- Kinect sensor
 
-video?
+- video
+
+- image filtering
+
+- audio input and visualization
+
+- Kinect sensor
 
 ---
 
 # p5.js
 
+<br/>
+
 Processing on the web
 
-p5.js online IDE
+<br/>
 
-teachable machines
+[p5js.org](https://p5js.org)
+
+<br/>
+
+[p5.js online IDE](https://editor.p5js.org/)
+
+<br/>
+
+[Teachable Machine](https://teachablemachine.withgoogle.com)
 
 ---
 
-# p5.js playgrounds
+# p5.js embedded playgrounds
 
-Hour of Code website
+<br/>
 
-Parametric Playground
+[Hour of Code website](https://dkessner.github.io/ProjectPumpkin)
+
+<br/>
+
+[Parametric Playground](https://dkessner.github.io/ParametricPlayground)
 
 ---
 
 # Thank you
 
 [http://dkessner.github.io](http://dkessner.github.io)
-
----
 
 
