@@ -37,9 +37,28 @@ Darren Kessner, PhD
 
 ---
 
-# Education History / Philosophy
+# Education and Play
 
-Papert & Mindstorms
+<br/>
+
+Charles and Ray Eames
+
+- design and play, learning by doing
+
+- "Toys and games are precursors to serious ideas"
+
+<br/>
+
+Seymour Papert
+
+- LOGO and Turtle Geometry
+
+- Microworlds - incubators for knowledge
+
+    - relate to prior knowledge
+
+    - make something new, play with it, build it
+
 
 ---
 
@@ -52,6 +71,8 @@ What is a software playground?
 - safe sandbox for exploration
 
 - a familiar place where a student's prior knowledge is useful
+
+- a place to play and make something new
 
 <br/>
 <br/>
