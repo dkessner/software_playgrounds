@@ -30,10 +30,12 @@ Darren Kessner, PhD
     - education
 
 - Currently:
+
     - Program Head in Computer Science and Software Innovation at
       [Marlborough School](http://stem.marlborough.org) 
       in Los Angeles
-    - Software developer at [Ellison Institute](http://eitm.org)
+
+    - Bioinformatics software developer at [Ellison Institute](http://eitm.org)
 
 ---
 
@@ -59,6 +61,7 @@ Seymour Papert
 
     - make something new, play with it, build it
 
+- [Mindstorms: Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu)
 
 ---
 
@@ -89,7 +92,7 @@ Goal of this presentation:
 
 <br/>
 
-Python is a great for math lessons at all levels!
+Python is great for math lessons at all levels!
 
 <br/>
 
@@ -197,8 +200,20 @@ Processing on the web
 
 ---
 
-# Thank you
+.center[
 
-[http://dkessner.github.io](http://dkessner.github.io)
+<br/>
+
+# Thank you!
+
+<br/>
+
+![](pix/qr_url.jpg)
+
+<br/>
+
+[http://dkessner.github.io/software_playgrounds](http://dkessner.github.io/software_playgrounds)
+]
+
 
 
